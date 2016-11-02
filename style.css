@@ -1,0 +1,135 @@
+html {
+  margin: 0;
+}
+
+body {
+  margin: 0 auto;
+  font-family: montserrat, sans-serif;
+  background-color: #fbfbfb;
+}
+
+.section {
+  max-width: 900px;
+  margin: 15px auto;
+  background-color: white;
+  border-radius: 3px;
+  box-shadow: 3px 3px 3px #efefef;
+  padding: 60px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  color: #66CCFF;
+  font-weight: 700;
+}
+
+p {
+  color: #7F7F7F;
+  font-family: open sans, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  margin 0;
+}
+
+h2 {
+  color: #282828;
+  margin: 0;
+  margin-bottom: 60px;
+}
+
+h3, a {
+  color: #7F7F7F;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  padding: 10px 60px;
+  font-size: 54px;
+}
+
+.fa {
+  color: #cacaca;
+}
+
+.fa:hover {
+  color: #66CCFF;
+}
+
+
+/* ------------------------------ */
+/* --------- BANNER ------------- */
+/* ------------------------------ */
+
+.banner {
+  text-align: center;
+  padding-bottom: 85px;
+}
+
+.banner p {
+  margin: 60px 0;
+}
+
+.pic-round {
+  margin: 0 auto;
+  width: 250px;
+  border-radius: 50%;
+}
+
+.btn-red {
+  color: #66CCFF;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  border: solid 1px #66CCFF;
+}
+
+.btn-red:hover {
+  background-color: #66CCFF;
+  color: white;
+}
+
+/* ------------------------------ */
+/* ----------- MAIN ------------- */
+/* ------------------------------ */
+
+.pic-square {
+  width: 200px;
+}
+
+.main tr {
+  filter: grayscale(100%);
+}
+
+.main tr:hover {
+  filter: none;
+}
+
+.main h3 {
+  color: #66CCFF;
+}
+
+.main td {
+  padding: 50px;
+}
+
+/* ------------------------------ */
+/* --------- FOOTER ------------- */
+/* ------------------------------ */
+
+.footer p {
+  margin-bottom: 60px;
+}
+
+.text-link {
+  font-weight:700;
+  text-decoration: none;
+}
+
+.text-link:hover {
+  color: #66CCFF;
+}
