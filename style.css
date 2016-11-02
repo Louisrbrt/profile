@@ -24,13 +24,6 @@ h1 {
   font-weight: 700;
 }
 
-p {
-  color: #7F7F7F;
-  font-family: open sans, sans-serif;
-  font-weight: 400;
-  font-size: 14px;
-  margin 0;
-}
 
 h2 {
   color: #282828;
@@ -40,6 +33,21 @@ h2 {
 
 h3, a {
   color: #7F7F7F;
+}
+
+h4 {
+  color: #d4d4d4;
+  font-family: open sans, sans-serif;
+  font-size: 10px;
+  padding: 0;
+}
+
+p {
+  color: #7F7F7F;
+  font-family: open sans, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  margin 0;
 }
 
 ul {
